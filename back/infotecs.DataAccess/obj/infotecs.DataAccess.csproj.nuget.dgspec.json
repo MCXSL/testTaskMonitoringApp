@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj": {}
+    "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj": {}
   },
   "projects": {
-    "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj": {
+    "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\infotecs.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj",
+        "projectUniqueName": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\infotecs.Core.csproj",
         "projectName": "infotecs.Core",
-        "projectPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj",
+        "projectPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\infotecs.Core.csproj",
         "packagesPath": "C:\\Users\\NoName\\.nuget\\packages\\",
-        "outputPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\obj\\",
+        "outputPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj": {
+    "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj",
+        "projectUniqueName": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj",
         "projectName": "infotecs.DataAccess",
-        "projectPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj",
+        "projectPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj",
         "packagesPath": "C:\\Users\\NoName\\.nuget\\packages\\",
-        "outputPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\obj\\",
+        "outputPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj": {
-                "projectPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj"
+              "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\infotecs.Core.csproj": {
+                "projectPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\infotecs.Core.csproj"
               }
             }
           }

@@ -1,0 +1,58 @@
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and temp files
+*.log
+logs/
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDEs and editors
+.idea/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.code-workspace
+
+# .NET build artifacts
+bin/
+obj/
+TestResults/
+*.csproj.user
+*.dll
+*.exe
+*.pdb
+*.cache
+*.nupkg
+
+# Node/Angular build artifacts
+node_modules/
+.angular/
+dist/
+build/
+out/
+coverage/
+.nyc_output/
+.cache/
+.vite/
+.eslintcache
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*

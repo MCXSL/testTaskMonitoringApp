@@ -3478,11 +3478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\infotecs.API.csproj",
+      "projectUniqueName": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.API\\infotecs.API.csproj",
       "projectName": "infotecs.API",
-      "projectPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\infotecs.API.csproj",
+      "projectPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.API\\infotecs.API.csproj",
       "packagesPath": "C:\\Users\\NoName\\.nuget\\packages\\",
-      "outputPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\obj\\",
+      "outputPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3503,11 +3503,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Application\\infotecs.Application.csproj": {
-              "projectPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Application\\infotecs.Application.csproj"
+            "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Application\\infotecs.Application.csproj": {
+              "projectPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Application\\infotecs.Application.csproj"
             },
-            "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj": {
-              "projectPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj"
+            "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj": {
+              "projectPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj"
             }
           }
         }

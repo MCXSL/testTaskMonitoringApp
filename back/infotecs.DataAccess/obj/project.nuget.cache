@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+tY/Bm9/WyM=",
+  "dgSpecHash": "3w50gY9pwe0=",
   "success": true,
-  "projectFilePath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj",
+  "projectFilePath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NoName\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\NoName\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

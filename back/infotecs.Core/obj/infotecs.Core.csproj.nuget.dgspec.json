@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj": {}
+    "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\infotecs.Core.csproj": {}
   },
   "projects": {
-    "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj": {
+    "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\infotecs.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj",
+        "projectUniqueName": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\infotecs.Core.csproj",
         "projectName": "infotecs.Core",
-        "projectPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj",
+        "projectPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\infotecs.Core.csproj",
         "packagesPath": "C:\\Users\\NoName\\.nuget\\packages\\",
-        "outputPath": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\obj\\",
+        "outputPath": "E:\\VSC\\git\\testTaskMonitoringApp\\back\\infotecs.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

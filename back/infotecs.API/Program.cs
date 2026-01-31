@@ -34,7 +34,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// Swagger ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+// Swagger documentation
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -52,12 +52,12 @@ using (var scope = app.Services.CreateScope())
     {
         var dbContext = services.GetRequiredService<InfotecsDbContext>();
         dbContext.Database.Migrate();
-        Console.WriteLine("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.");
+        Console.WriteLine("Migration applied successfully.");
     }
     catch (Exception ex)
     {
         var logger = services.GetRequiredService<ILogger<Program>>();
-        logger.LogError(ex, "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+        logger.LogError(ex, "An error occurred while applying migrations.");
     }
 }
 
