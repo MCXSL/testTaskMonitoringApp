@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\front\\src\\app",
+    "\\front\\src\\app\\components",
+    "\\front\\src\\app\\components\\device-list",
+    "\\front\\src\\app\\components\\device-statistics",
+    "\\front\\src\\app\\models",
+    "\\front\\src\\app\\services",
+    "\\infotecs.API",
+    "\\infotecs.DataAccess",
+    "\\infotecs.DataAccess\\Migrations"
+  ],
+  "SelectedNode": "\\docker-compose.yml",
+  "PreviewInSolutionExplorer": false
+}

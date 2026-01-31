@@ -1,0 +1,49 @@
+<div class="device-list-container">
+  <div class="header">
+    <h1>Мониторинг устройств</h1>
+    <button class="refresh-btn" (click)="loadDevices()" [disabled]="loading()">
+      <span *ngIf="!loading()">Обновить</span>
+      <span *ngIf="loading()">Загрузка...</span>
+    </button>
+  </div>
+
+  <div *ngIf="loading()" class="loading">
+    <p>Загрузка устройств...</p>
+  </div>
+
+  <div *ngIf="error()" class="error">
+    <p>{{ error() }}</p>
+    <button (click)="loadDevices()">Повторить</button>
+  </div>
+
+  <div *ngIf="!loading() && !error() && devices().length === 0" class="empty">
+    <p>Устройства не найдены</p>
+  </div>
+
+  <div *ngIf="!loading() && !error() && devices().length > 0" class="devices-grid">
+    @for (device of devices(); track device.name) {
+      <div class="device-card" (click)="selectDevice(device.name)">
+        <div class="device-header">
+          <h2>{{ device.name }}</h2>
+        </div>
+        <div class="device-info">
+          <div class="info-item">
+            <span class="label">Сессий:</span>
+            <span class="value">{{ device.sessions.length }}</span>
+          </div>
+          <div class="info-item">
+            <span class="label">Общее время:</span>
+            <span class="value">{{ formatDuration(getTotalDuration(device)) }}</span>
+          </div>
+          <div class="info-item">
+            <span class="label">Последняя версия:</span>
+            <span class="value">{{ device.sessions[device.sessions.length - 1]?.version || 'N/A' }}</span>
+          </div>
+        </div>
+        <div class="device-footer">
+          <span class="view-details">Просмотр статистики →</span>
+        </div>
+      </div>
+    }
+  </div>
+</div>

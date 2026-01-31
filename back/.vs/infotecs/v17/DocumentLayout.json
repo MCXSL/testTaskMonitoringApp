@@ -1,0 +1,822 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSC\\testovoeInfotecs\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\api-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Configurations\\UserConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.DataAccess\\Configurations\\UserConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\scripts\\generate-api-schema.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\scripts\\generate-api-schema.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Migrations\\20260123153147_Init.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.DataAccess\\Migrations\\20260123153147_Init.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Migrations\\20260123153147_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.DataAccess\\Migrations\\20260123153147_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Migrations\\InfotecsDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.DataAccess\\Migrations\\InfotecsDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\scripts\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\scripts\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\infotecs.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.API\\infotecs.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\Contracts\\UserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.API\\Contracts\\UserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-statistics\\device-statistics.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\components\\device-statistics\\device-statistics.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-statistics\\device-statistics.component.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\components\\device-statistics\\device-statistics.component.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-statistics\\device-statistics.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\components\\device-statistics\\device-statistics.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-list\\device-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\components\\device-list\\device-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-list\\device-list.component.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\components\\device-list\\device-list.component.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-list\\device-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\components\\device-list\\device-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\services\\session.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\services\\session.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\models\\user.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\models\\user.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\app.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\InfotecsDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.DataAccess\\InfotecsDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infotecs.DataAccess\\infotecs.DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|e:\\vsc\\testovoeinfotecs\\back\\infotecs.core\\models\\userinfotecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|solutionrelative:infotecs.core\\models\\userinfotecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B939EF-830D-406C-AF89-88BD229B7B9A}|infotecs.Application\\infotecs.Application.csproj|e:\\vsc\\testovoeinfotecs\\back\\infotecs.application\\infotecs.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7B939EF-830D-406C-AF89-88BD229B7B9A}|infotecs.Application\\infotecs.Application.csproj|solutionrelative:infotecs.application\\infotecs.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|e:\\vsc\\testovoeinfotecs\\back\\infotecs.core\\infotecs.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|solutionrelative:infotecs.core\\infotecs.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B939EF-830D-406C-AF89-88BD229B7B9A}|infotecs.Application\\infotecs.Application.csproj|e:\\vsc\\testovoeinfotecs\\back\\infotecs.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B939EF-830D-406C-AF89-88BD229B7B9A}|infotecs.Application\\infotecs.Application.csproj|solutionrelative:infotecs.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|e:\\vsc\\testovoeinfotecs\\back\\infotecs.core\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|solutionrelative:infotecs.core\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|e:\\vsc\\testovoeinfotecs\\back\\infotecs.core\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|solutionrelative:infotecs.core\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|e:\\vsc\\testovoeinfotecs\\back\\infotecs.core\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA635E-277C-411B-8090-5DE9616FCB3A}|infotecs.Core\\infotecs.Core.csproj|solutionrelative:infotecs.core\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 13,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api-schema.json",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\api-schema.json",
+              "RelativeDocumentMoniker": "api-schema.json",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\api-schema.json",
+              "RelativeToolTip": "api-schema.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T21:30:10.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "angular.json",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\angular.json",
+              "RelativeDocumentMoniker": "front\\angular.json",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\angular.json",
+              "RelativeToolTip": "front\\angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T21:15:56.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "generate-api-schema.js",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\scripts\\generate-api-schema.js",
+              "RelativeDocumentMoniker": "front\\scripts\\generate-api-schema.js",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\scripts\\generate-api-schema.js",
+              "RelativeToolTip": "front\\scripts\\generate-api-schema.js",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAQwCkBAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-23T20:43:50.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\Dockerfile",
+              "RelativeDocumentMoniker": "front\\Dockerfile",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\Dockerfile",
+              "RelativeToolTip": "front\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-23T19:31:53.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\package-lock.json",
+              "RelativeDocumentMoniker": "front\\package-lock.json",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\package-lock.json",
+              "RelativeToolTip": "front\\package-lock.json",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T20:29:19.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\package.json",
+              "RelativeDocumentMoniker": "front\\package.json",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\package.json",
+              "RelativeToolTip": "front\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T19:34:06.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-23T16:16:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nginx.conf",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\nginx.conf",
+              "RelativeDocumentMoniker": "front\\nginx.conf",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\nginx.conf",
+              "RelativeToolTip": "front\\nginx.conf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-23T19:45:11.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "infotecs.DataAccess\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "infotecs.DataAccess\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T18:12:42.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260123153147_Init.Designer.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Migrations\\20260123153147_Init.Designer.cs",
+              "RelativeDocumentMoniker": "infotecs.DataAccess\\Migrations\\20260123153147_Init.Designer.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Migrations\\20260123153147_Init.Designer.cs",
+              "RelativeToolTip": "infotecs.DataAccess\\Migrations\\20260123153147_Init.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T20:59:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260123153147_Init.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Migrations\\20260123153147_Init.cs",
+              "RelativeDocumentMoniker": "infotecs.DataAccess\\Migrations\\20260123153147_Init.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Migrations\\20260123153147_Init.cs",
+              "RelativeToolTip": "infotecs.DataAccess\\Migrations\\20260123153147_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T20:59:49.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InfotecsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Migrations\\InfotecsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "infotecs.DataAccess\\Migrations\\InfotecsDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\Migrations\\InfotecsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "infotecs.DataAccess\\Migrations\\InfotecsDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T20:59:47.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\scripts\\README.md",
+              "RelativeDocumentMoniker": "front\\scripts\\README.md",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\scripts\\README.md",
+              "RelativeToolTip": "front\\scripts\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-23T20:48:23.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\Program.cs",
+              "RelativeDocumentMoniker": "infotecs.API\\Program.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\Program.cs",
+              "RelativeToolTip": "infotecs.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T18:21:23.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "infotecs.API.csproj",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\infotecs.API.csproj",
+              "RelativeDocumentMoniker": "infotecs.API\\infotecs.API.csproj",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\infotecs.API.csproj",
+              "RelativeToolTip": "infotecs.API\\infotecs.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-23T18:21:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\README.md",
+              "RelativeDocumentMoniker": "front\\README.md",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\README.md",
+              "RelativeToolTip": "front\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-23T20:45:15.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\Dockerfile",
+              "RelativeDocumentMoniker": "infotecs.API\\Dockerfile",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\Dockerfile",
+              "RelativeToolTip": "infotecs.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-23T18:25:19.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\Contracts\\UserRequest.cs",
+              "RelativeDocumentMoniker": "infotecs.API\\Contracts\\UserRequest.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\Contracts\\UserRequest.cs",
+              "RelativeToolTip": "infotecs.API\\Contracts\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T20:45:23.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tsconfig.spec.json",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\tsconfig.spec.json",
+              "RelativeDocumentMoniker": "front\\tsconfig.spec.json",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\tsconfig.spec.json",
+              "RelativeToolTip": "front\\tsconfig.spec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T20:45:19.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\tsconfig.json",
+              "RelativeDocumentMoniker": "front\\tsconfig.json",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\tsconfig.json",
+              "RelativeToolTip": "front\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T20:45:18.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "device-statistics.component.ts",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-statistics\\device-statistics.component.ts",
+              "RelativeDocumentMoniker": "front\\src\\app\\components\\device-statistics\\device-statistics.component.ts",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-statistics\\device-statistics.component.ts",
+              "RelativeToolTip": "front\\src\\app\\components\\device-statistics\\device-statistics.component.ts",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T20:45:08.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "device-statistics.component.less",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-statistics\\device-statistics.component.less",
+              "RelativeDocumentMoniker": "front\\src\\app\\components\\device-statistics\\device-statistics.component.less",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-statistics\\device-statistics.component.less",
+              "RelativeToolTip": "front\\src\\app\\components\\device-statistics\\device-statistics.component.less",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2026-01-23T20:45:08.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "device-statistics.component.html",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-statistics\\device-statistics.component.html",
+              "RelativeDocumentMoniker": "front\\src\\app\\components\\device-statistics\\device-statistics.component.html",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-statistics\\device-statistics.component.html",
+              "RelativeToolTip": "front\\src\\app\\components\\device-statistics\\device-statistics.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-23T20:45:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "device-list.component.ts",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-list\\device-list.component.ts",
+              "RelativeDocumentMoniker": "front\\src\\app\\components\\device-list\\device-list.component.ts",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-list\\device-list.component.ts",
+              "RelativeToolTip": "front\\src\\app\\components\\device-list\\device-list.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T20:45:05.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "device-list.component.less",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-list\\device-list.component.less",
+              "RelativeDocumentMoniker": "front\\src\\app\\components\\device-list\\device-list.component.less",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-list\\device-list.component.less",
+              "RelativeToolTip": "front\\src\\app\\components\\device-list\\device-list.component.less",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2026-01-23T20:45:04.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "device-list.component.html",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-list\\device-list.component.html",
+              "RelativeDocumentMoniker": "front\\src\\app\\components\\device-list\\device-list.component.html",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\components\\device-list\\device-list.component.html",
+              "RelativeToolTip": "front\\src\\app\\components\\device-list\\device-list.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-23T20:45:03.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "session.service.ts",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\services\\session.service.ts",
+              "RelativeDocumentMoniker": "front\\src\\app\\services\\session.service.ts",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\services\\session.service.ts",
+              "RelativeToolTip": "front\\src\\app\\services\\session.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T20:44:58.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "user.model.ts",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\models\\user.model.ts",
+              "RelativeDocumentMoniker": "front\\src\\app\\models\\user.model.ts",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\models\\user.model.ts",
+              "RelativeToolTip": "front\\src\\app\\models\\user.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T20:44:57.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "front\\src\\app\\app.routes.ts",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "front\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T20:44:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "app.less",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.less",
+              "RelativeDocumentMoniker": "front\\src\\app\\app.less",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.less",
+              "RelativeToolTip": "front\\src\\app\\app.less",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2026-01-23T20:44:53.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "app.ts",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "front\\src\\app\\app.ts",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.ts",
+              "RelativeToolTip": "front\\src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T20:44:34.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "front\\src\\app\\app.config.ts",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\front\\src\\app\\app.config.ts",
+              "RelativeToolTip": "front\\src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-23T20:44:31.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-23T19:21:57.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\appsettings.json",
+              "RelativeDocumentMoniker": "infotecs.API\\appsettings.json",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\appsettings.json",
+              "RelativeToolTip": "infotecs.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T18:27:17.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "infotecs.API\\appsettings.Development.json",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.API\\appsettings.Development.json",
+              "RelativeToolTip": "infotecs.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T18:27:22.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "InfotecsDbContext.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\InfotecsDbContext.cs",
+              "RelativeDocumentMoniker": "infotecs.DataAccess\\InfotecsDbContext.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\InfotecsDbContext.cs",
+              "RelativeToolTip": "infotecs.DataAccess\\InfotecsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T18:12:24.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "infotecs.DataAccess.csproj",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj",
+              "RelativeDocumentMoniker": "infotecs.DataAccess\\infotecs.DataAccess.csproj",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.DataAccess\\infotecs.DataAccess.csproj",
+              "RelativeToolTip": "infotecs.DataAccess\\infotecs.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-23T17:38:55.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Result.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "infotecs.Core\\Models\\Result.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\Models\\Result.cs",
+              "RelativeToolTip": "infotecs.Core\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T03:58:43.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\Abstractions\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "infotecs.Core\\Abstractions\\IUserRepository.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\Abstractions\\IUserRepository.cs",
+              "RelativeToolTip": "infotecs.Core\\Abstractions\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:07:30.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\Abstractions\\IUserService.cs",
+              "RelativeDocumentMoniker": "infotecs.Core\\Abstractions\\IUserService.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\Abstractions\\IUserService.cs",
+              "RelativeToolTip": "infotecs.Core\\Abstractions\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:59:52.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserInfotecs.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\Models\\UserInfotecs.cs",
+              "RelativeDocumentMoniker": "infotecs.Core\\Models\\UserInfotecs.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\Models\\UserInfotecs.cs",
+              "RelativeToolTip": "infotecs.Core\\Models\\UserInfotecs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T20:40:31.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "infotecs.Core.csproj",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj",
+              "RelativeDocumentMoniker": "infotecs.Core\\infotecs.Core.csproj",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Core\\infotecs.Core.csproj",
+              "RelativeToolTip": "infotecs.Core\\infotecs.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T20:38:43.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "infotecs.Application\\Services\\UserService.cs",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "infotecs.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:49:31.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "infotecs.Application.csproj",
+              "DocumentMoniker": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Application\\infotecs.Application.csproj",
+              "RelativeDocumentMoniker": "infotecs.Application\\infotecs.Application.csproj",
+              "ToolTip": "E:\\VSC\\testovoeInfotecs\\back\\infotecs.Application\\infotecs.Application.csproj",
+              "RelativeToolTip": "infotecs.Application\\infotecs.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T17:43:15.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AgIAABwBAAAAAAAAAAAhwDMBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-21T20:20:42.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

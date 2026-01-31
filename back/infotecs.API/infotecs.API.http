@@ -1,0 +1,6 @@
+@infotecs.API_HostAddress = http://localhost:5217
+
+GET {{infotecs.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

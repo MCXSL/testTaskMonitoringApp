@@ -1,0 +1,281 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Device Monitoring API",
+    "version": "1.0.0",
+    "description": "API для мониторинга устройств и сессий пользователей",
+    "contact": {
+      "name": "API Support"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://localhost:8080",
+      "description": "Development server"
+    }
+  ],
+  "paths": {
+    "/User": {
+      "get": {
+        "summary": "Получить список всех пользователей/устройств",
+        "description": "Возвращает список всех записей о пользователях и их сессиях",
+        "operationId": "getAllUsers",
+        "tags": [
+          "Users"
+        ],
+        "responses": {
+          "200": {
+            "description": "Успешный ответ",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/UserResponse"
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Внутренняя ошибка сервера"
+          }
+        }
+      },
+      "post": {
+        "summary": "Создать новую запись о сессии пользователя",
+        "description": "Создает новую запись о сессии пользователя с указанными данными",
+        "operationId": "createUser",
+        "tags": [
+          "Users"
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRequest"
+              },
+              "example": {
+                "name": "Chrome on Windows",
+                "startTime": "2024-01-01T10:00:00.000Z",
+                "endTime": "2024-01-01T11:30:00.000Z",
+                "version": "120.0.0.0"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Успешное создание",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "string",
+                  "format": "uuid",
+                  "description": "Идентификатор созданной записи"
+                },
+                "example": "f695ea23-8662-4a57-975a-f5afd26655db"
+              }
+            }
+          },
+          "400": {
+            "description": "Неверный запрос (ошибка валидации)",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string",
+                      "description": "Описание ошибки"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Внутренняя ошибка сервера"
+          }
+        }
+      }
+    },
+    "/User/{id}": {
+      "put": {
+        "summary": "Обновить запись о сессии пользователя",
+        "description": "Обновляет существующую запись о сессии пользователя по идентификатору",
+        "operationId": "updateUser",
+        "tags": [
+          "Users"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Идентификатор записи",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "example": "f695ea23-8662-4a57-975a-f5afd26655db"
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRequest"
+              },
+              "example": {
+                "name": "Chrome on Windows",
+                "startTime": "2024-01-01T10:00:00.000Z",
+                "endTime": "2024-01-01T11:30:00.000Z",
+                "version": "120.0.0.0"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Успешное обновление",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "string",
+                  "format": "uuid",
+                  "description": "Идентификатор обновленной записи"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Запись не найдена"
+          },
+          "500": {
+            "description": "Внутренняя ошибка сервера"
+          }
+        }
+      },
+      "delete": {
+        "summary": "Удалить запись о сессии пользователя",
+        "description": "Удаляет запись о сессии пользователя по идентификатору",
+        "operationId": "deleteUser",
+        "tags": [
+          "Users"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "Идентификатор записи",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "example": "f695ea23-8662-4a57-975a-f5afd26655db"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Успешное удаление",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "string",
+                  "format": "uuid",
+                  "description": "Идентификатор удаленной записи"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Запись не найдена"
+          },
+          "500": {
+            "description": "Внутренняя ошибка сервера"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "UserRequest": {
+        "type": "object",
+        "required": [
+          "name",
+          "startTime",
+          "endTime",
+          "version"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Имя пользователя или идентификатор устройства",
+            "example": "Chrome on Windows"
+          },
+          "startTime": {
+            "type": "string",
+            "format": "date-time",
+            "description": "Время начала сессии в формате ISO 8601",
+            "example": "2024-01-01T10:00:00.000Z"
+          },
+          "endTime": {
+            "type": "string",
+            "format": "date-time",
+            "description": "Время окончания сессии в формате ISO 8601",
+            "example": "2024-01-01T11:30:00.000Z"
+          },
+          "version": {
+            "type": "string",
+            "description": "Версия браузера или приложения",
+            "example": "120.0.0.0"
+          }
+        }
+      },
+      "UserResponse": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "description": "Уникальный идентификатор записи",
+            "example": "f695ea23-8662-4a57-975a-f5afd26655db"
+          },
+          "name": {
+            "type": "string",
+            "description": "Имя пользователя или идентификатор устройства",
+            "example": "Chrome on Windows"
+          },
+          "startTime": {
+            "type": "string",
+            "format": "date-time",
+            "description": "Время начала сессии в формате ISO 8601",
+            "example": "2024-01-01T10:00:00.000Z"
+          },
+          "endTime": {
+            "type": "string",
+            "format": "date-time",
+            "description": "Время окончания сессии в формате ISO 8601",
+            "example": "2024-01-01T11:30:00.000Z"
+          },
+          "version": {
+            "type": "string",
+            "description": "Версия браузера или приложения",
+            "example": "120.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Users",
+      "description": "Операции с пользователями и сессиями устройств"
+    }
+  ]
+}

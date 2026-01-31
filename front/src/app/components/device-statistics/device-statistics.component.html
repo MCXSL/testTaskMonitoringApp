@@ -1,0 +1,61 @@
+<div class="device-statistics-container">
+  <div class="header">
+    <button class="back-btn" (click)="goBack()">← Назад</button>
+    <h1>Статистика устройства: {{ deviceName() }}</h1>
+  </div>
+
+  <div *ngIf="loading()" class="loading">
+    <p>Загрузка статистики...</p>
+  </div>
+
+  <div *ngIf="error()" class="error">
+    <p>{{ error() }}</p>
+    <button (click)="loadSessions(deviceName())">Повторить</button>
+  </div>
+
+  <div *ngIf="!loading() && !error()" class="statistics-content">
+    <div class="summary-cards">
+      <div class="summary-card">
+        <div class="card-label">Всего сессий</div>
+        <div class="card-value">{{ sessions().length }}</div>
+      </div>
+      <div class="summary-card">
+        <div class="card-label">Общее время</div>
+        <div class="card-value">{{ formatDuration(getTotalDuration()) }}</div>
+      </div>
+      <div class="summary-card">
+        <div class="card-label">Среднее время сессии</div>
+        <div class="card-value">{{ formatDuration(getAverageDuration()) }}</div>
+      </div>
+    </div>
+
+    <div *ngIf="sessions().length === 0" class="empty">
+      <p>Нет записей для этого устройства</p>
+    </div>
+
+    <div *ngIf="sessions().length > 0" class="sessions-table-container">
+      <table class="sessions-table">
+        <thead>
+          <tr>
+            <th>Время начала</th>
+            <th>Время окончания</th>
+            <th>Длительность</th>
+            <th>Версия</th>
+          </tr>
+        </thead>
+        <tbody>
+          @for (session of sessions(); track session.id) {
+            <tr>
+              <td>{{ formatDate(session.startTime) }}</td>
+              <td>{{ formatDate(session.endTime) }}</td>
+              <td>{{ formatDuration(session.duration) }}</td>
+              <td>
+                <span class="version-badge">{{ session.version }}</span>
+              </td>
+            </tr>
+          }
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
